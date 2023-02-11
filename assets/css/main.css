@@ -122,7 +122,7 @@ body {
   height: 80%;
   position: absolute;
   bottom: 0;
-  left: 0;
+  left: 2px;
   background-color: var(--color-3);
 }
 .resume-body .experience-section .experience::after {
