@@ -163,7 +163,7 @@ body {
   }
 }
 @container experience-container (max-width: 30em) {
-  .resume-body .experience-section .experience .job-info {
+  .resume-body .experience-section .experience .job-info, .resume-body .experience-section .experience .job-details {
     flex-direction: column;
     gap: 0.35rem;
   }

@@ -110,7 +110,6 @@ body {
             .job-details {
                 display: flex;
                 gap: 1rem;
-                
                 span {
                     &:first-child {
                         font-weight: 600;
@@ -191,7 +190,7 @@ body {
     .resume-body {
         .experience-section {
             .experience {
-                .job-info {
+                .job-info, .job-details {
                     flex-direction: column;
                     gap: .35rem;
                 }
